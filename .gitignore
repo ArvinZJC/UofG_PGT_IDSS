@@ -1,0 +1,12 @@
+## Ignore unnecessary files to avoid pushing them.
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# UofG Declaration of Originality text files
+uofg_declaration_of_originality.txt
