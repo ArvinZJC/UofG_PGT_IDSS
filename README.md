@@ -6,11 +6,14 @@ This repository contains code written for practising the knowledge gained from t
 
 ## ATTENTION
 
-1. The IPYNB file can be opened and edited in Visual Studio Code (if supported). By 23 February 2021, everything looks good with the code editor (Version: 1.53.1). As an option, you can also use Jupyter Notebook in Anaconda. The main packages used in the development are listed in the following table.
+1. The IPYNB file can be opened and edited in Visual Studio Code (if supported). By 4 March 2021, everything looks good with the code editor (Version: 1.54.0). As an option, you can also use Jupyter Notebook in Anaconda. The primary packages used in the development are listed in the following table.
 
     | Name | Version |
     | :--: | :--: |
-    | python | 3.8.5 |
+    | python | 3.8.8 |
+    | [autograd](https://github.com/HIPS/autograd) | 1.0 |
     | [jhwutils](https://github.com/johnhw/jhwutils) | 1.0 |
+    | matplotlib | 3.3.4 |
     | numpy | 1.19.2 |
-    | pandas | 1.2.0 |
+    | pandas | 1.2.3 |
+    | scipy | 1.6.1 |
