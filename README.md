@@ -14,6 +14,6 @@ This repository contains code written for practising the knowledge gained from t
     | [autograd](https://github.com/HIPS/autograd) | 1.0 |
     | [jhwutils](https://github.com/johnhw/jhwutils) | 1.0 |
     | matplotlib | 3.3.4 |
-    | numpy | 1.19.2 |
+    | numpy | 1.20.1 |
     | pandas | 1.2.3 |
     | scipy | 1.6.1 |
