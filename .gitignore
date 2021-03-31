@@ -126,3 +126,7 @@ dmypy.json
 
 # UofG Declaration of Originality text files
 uofg_declaration_of_originality.txt
+
+# Others (These files should be deleted manually, but rules are set here to ensure that these files would not be uploaded.)
+*.pdf
+datalog.npz
